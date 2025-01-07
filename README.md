@@ -21,8 +21,8 @@ A basic analytics module utilizing Langflow and DataStax to analyze engagement d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sharathchenna/EngageMetrics.git
-cd EngageMetrics
+https://github.com/Maruthi32/social-media-using-langflow.git
+cd social-media-using-langflow
 ```
 
 ### 2. Create a Virtual Environment
