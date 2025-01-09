@@ -66,7 +66,7 @@ streamlit run main.py
 View the analysis result along with the chat history displayed below the input area.
 
 ## Project Structure
-- main.py: Main application file containing the Streamlit app logic.
+- home.py: Main application file containing the Streamlit app logic.
 - requirements.txt: List of dependencies required for the project.
 
 ## Notes
